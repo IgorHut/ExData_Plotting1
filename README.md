@@ -1,3 +1,5 @@
+The data needed can be found at https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip, it should be downloaded to "./Data/household_power_consumption.txt", for the scripts to work...
+
 ## Introduction
 
 This assignment uses data from
